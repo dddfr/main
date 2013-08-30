@@ -1,4 +1,4 @@
 main
 ====
 
-Main repo for all french Domain-Driven Design addict (wiki, code repo, website, etc.)
+Main repo for all french Domain-Driven Design addicts (wiki, code repo, website, etc.)
